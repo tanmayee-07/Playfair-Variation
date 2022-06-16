@@ -7,6 +7,10 @@ Make sure you have a C++ compiler installed.
 
 
 *g++ playfair.cpp -o playfair*
+
+
 3. An executable file will be created with the same name now.
 4. Execute the file by running the following command-
+
+
 *playfair*
